@@ -1,0 +1,5 @@
+{
+  "name": "Gestão de Lava Jato",
+  "description": "Uma plataforma profissional para gerenciamento de lava jatos, permitindo cadastro de clientes, veículos (carros e motos), controle de ordens de serviço e análise de desempenho com IA.",
+  "requestFramePermissions": []
+}
